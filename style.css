@@ -1,2 +1,5 @@
 div {border: 3px solid blue;
-  margin:5px;blackgraund-color:green;clear:left}
+  margin:5px;}
+#b1{blackgraund-color:green;clear:left}
+#b2{blackgraund-color:green;clear:right}
+#b3{blackgraund-color:green;clear:left}
