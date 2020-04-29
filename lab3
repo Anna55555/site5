@@ -1,0 +1,48 @@
+<html><head>
+<title>Лабораторна робота №1. Мова HTML. </title>
+  <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+</head>
+<body data-gr-c-s-loaded="true">
+<div id="b1">
+<div id="b2"> 
+  <img src="fffff.jpg" alt="логотип"> 
+  <h1> Мій улюблений сайт </h1> 
+  <h2> Будь на межі прогресу! </h2> 
+  </div>
+<div id="b3">
+  <ul> 
+  <li>  <a href="https://mon.gov.ua/ua"> Міністерство освіти і науки України </a> </li> 
+  <li>  <a href="https:/ /https://github.com/dima20-hud/site5/blob/master/lab1.html.
+"> Сайт-звіт з інформатика за I семестр </a> </li>
+  <li>  <a href="https://studfile.net/preview/5392860/page:28/"> Атрибути тегів  </a> </li>
+    </ul>
+</div>
+  <div id="b4"> 
+<p> Доброго дня! </p>
+<p> Як ваші справи? </p>
+<p> Хай вам щастить! </p>
+</div> 
+<div id="b5">
+  <table border="1">
+<tbody><tr>
+<td colspan="2">Діти</td>
+<td>Всього</td>
+</tr>
+<tr>
+<td>Дівчата</td>
+<td> 10 </td>
+<td rowspan="2">25</td>  
+</tr>
+<tr>
+<td>Хлопці</td>
+<td>15</td>
+</tr>
+</tbody></table>
+  </div>
+<div id="b6">
+ © Римбул Дмитро 2020 
+</div>
+
+
+</div></body></html>
