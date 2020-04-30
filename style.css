@@ -1,7 +1,7 @@
 div {border: solid 3px;color: black;margin: 5px;background: pink;}
 #b1 {border: solid 3px; border-color:pink;margin:5px;background:light green;}
 grey1 {background:grey; padding:5px;border: solid 3px;margin:2px;border-color:white;fort-family:sans-serif;font-style:italic;font-weight:400;}
-#b3 {width: 25%;float: left;}
-#b4 {width: 60%;float: left;}
+#b3 {width: 25%;float: left;letter-spacing:0.5em;vertical-align:super;}
+#b4 {width: 60%;float: left;letter-spacing:0.6em;}
 #b5 {width: 13%;float: left;}
 #b6 {clear:both;}
