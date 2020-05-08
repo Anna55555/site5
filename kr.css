@@ -1,27 +1,21 @@
 <!doctype html>
 <html>
   <head>
-<title>Контрольна робата CSS стилi </title>
+<title>Шиншиломания</title>
    <meta charset = "UTF-8">
-   <link rel="stylesheet" href="style">
 </head>
 <body>
+<link rel="stylesheet" type="text/css" href="stile.">
 <div id="b1">
-<p>Шиншилы ,як хобi. ;)</p>
+</div>
 <div id="b2">
-
     </div>
-<div id="b3" clas="grey1">
-
+<div id="b3">
       </div> 
-<div id = "b4" clas="grey1">
-
-
+<div id = "b4">  
 </div> 
 <div id = "b5">
   &copy; Римбул Дмитро
 </div>
-
-  </div>
 </body>
 </html>
